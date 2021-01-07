@@ -1,3 +1,5 @@
+// 자리수 구해서 넘기기
+
 int findNumbers(int* nums, int numsSize){
     int find = 0;
     int count;
