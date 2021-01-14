@@ -4,34 +4,7 @@ function helloWorld(){
 }
 
 function helloWorld(){
-  var str="Hello World!";
-  console.log(str);
-}function helloWorld(){
-  var str="Hello World!";
-  console.log(str);
-}function helloWorld(){
-  var str="Hello World!";
-  console.log(str);
-}function helloWorld(){
-  var str="Hello World!";
-  console.log(str);
-}function helloWorld(){
-  var str="Hello World!";
-  console.log(str);
-}function helloWorld(){
-  va
-  var str="Hello World!";
-  console.log(str);
-}function helloWorld(){
-  var str="Hello World!";
-  console.log(str);
-}function helloWorld(){
-  var str="Hello World!";
-  console.log(str);
-}function helloWorld(){
-  var str="Hello World!";
-  console.log(str);
-}function helloWorld(){
+  var 
   var str="Hello World!";
   console.log(str);
 }function helloWorld(){
