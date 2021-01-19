@@ -349,8 +349,4 @@ function padIt(str,n){
     n --;
   }
   return str;
-}function padIt(str,n){
-  while(n>0){
-    if(n%2 === 0) {
-      str = str + "*";
-
+}
