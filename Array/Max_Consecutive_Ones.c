@@ -18,5 +18,3 @@ int findMaxConsecutiveOnes(int* nums, int numsSize){
     return max;
 }
 
-int findMaxConsecutiveOnes(int* nums, int numsSize){
-   
