@@ -27,4 +27,4 @@ int findMaxConsecutiveOnes(int* nums, int numsSize){
     for(i = 0; i < numsSize; i++) {
         if(nums[i] == 1) {
             count++;
-            if(count > max)
+      
