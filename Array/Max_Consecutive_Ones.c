@@ -32,7 +32,4 @@ int findMaxConsecutiveOnes(int* nums, int numsSize){
         }
         if(nums[i] == 0) {
             count = 0;
-        }
-    }
-    return max;
-}
+ 
