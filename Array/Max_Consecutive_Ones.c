@@ -26,5 +26,3 @@ int findMaxConsecutiveOnes(int* nums, int numsSize){
     // 카운트를 한다.
     for(i = 0; i < numsSize; i++) {
         if(nums[i] == 1) {
-            count++;
-      
