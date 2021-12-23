@@ -10,5 +10,6 @@ const numIdenticalPairs = nums => {
             if (nums[i] === nums[j]) count++;
         }
     }
+    
     return count;
 };
